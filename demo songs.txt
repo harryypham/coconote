@@ -1,0 +1,323 @@
+X:1
+T:Simple scale
+C:Unknown
+M:4/4
+L:1/4
+Q:120
+K:C
+C D E F | G A B c | c B A G F E D C |
+
+X:1
+T:Little Night Music Mvt. 1
+C:Wolfgang Amadeus Mozart
+Q:280
+M:4/4
+L:1/8
+K:G
+[D2B2g2]z d g2z d | g d g b d'2 z2 | c'2z a c'2z a | c' a f a d2 z2 |
+[DBg]z g3 b a g | g f f3 a c' f | a g g3 b a g | g f f3 a c' f |
+g g f e1/2f/2 g g a g/a/ | b b c' b/c'/ d'2 z2 | d4 e4 | c2 c2 B2 B2 |
+A2 A2 G F E F | G z A z B z z2  | d4 e4 | dccc cBBB | BAAA GFEF | 
+[G4G,4] [GG,] G1/3F1/3G1/3 AF | B4 B B/3A/3B/3 c A | d4 e2 f2 |
+g2 a2 b2 ^c'2 | d'3 a ^c'3/2 a/ c'3/2 a/ | d'3 a ^c'3/2 a/ c'3/2 a/ | 
+d' [d'2f2] [d'2f2] [d'2f2] [d'f] | d' [d'2e2] [d'2e2] [d'2e2] [d'e] | 
+[^c'e] a d' a c' a d' a | ^c' A A A A2 z2 | 
+a3 g/3f/3e/3 d z b z | g z e z a z z2 | f3 e/3d/3^c/3 B z g z | f4 e2 z2 |
+z aaa aaaa | aaaa aab^c' | ^c'd' z b b a z ^c | d2 z a d'^c'ba | 
+b a z a a a a a | b a z a d' ^c' b a |
+b a z a a a a a | b a z2 [b3B3] a/3g/3f/3 | g2 z2 [a3A3] g/3f/3e/3 |
+f2 z2 b ^c'/d'/ c' b | b a f a a g f e | d2 z a d' ^c' b a | b a z a a a a a |
+b a z a d' ^c' b a | b a z a a a a a | b a z2 [b3B3] a/3g/3f/3 |
+g2 z2 [a3A3] g/3f/3e/3 | f2 z2 b ^c'/d'/ c' b | b a f a a g f e |
+d A B ^c d d e d/e/ | 
+f ^c d e f f g f/g/ | a a ^a ^g/a/ b2 z2 | B3 e d ^c B A | d z f z d z z2 |
+
+X:1
+T:Paddy O'Rafferty
+C:Trad.
+M:6/8
+Q:200
+K:D
+dff cee|def gfe|dff cee|dfe dBA|
+dff cee|def gfe|faf gfe|[1 dfe dBA:|[2 dfe dcB|]
+A3 B3|gfe fdB|AFA B2c|dfe dcB|
+A3 B3|efe efg|faf gfe|[1 dfe dcB:|[2 dfe dBA|]
+fAA eAA| def gfe|fAA eAA|dfe dBA|
+fAA eAA| def gfe|faf gfe|dfe dBA:|
+
+X:1868
+T:Invention no. 1
+C:Johann Sebastian Bach
+V:1
+V:2
+M:C
+L:1/8
+Q:140
+K:C
+V:1
+z/C/D/E/ F/D/E/C/ GcBc|d/G/A/B/ c/A/B/G/ dgfg|
+V:2
+z4 z/C,/D,/E,/ F,/D,/E,/C,/|G,G,, z2 z/G,/A,/B,/ C/A,/B,/G,/|
+%
+V:1
+e/a/g/f/ e/g/f/a/ g/f/e/d/ c/e/d/f/|e/d/c/B/ A/c/B/d/ c/B/A/G/ ^F/A/G/B/|
+V:2
+CB,CD EG,A,B,|CE,^F,G, A,B,C2|
+%
+V:1
+AD c3/d/ B/A/G/^F/ E/G/F/A/|G/B/A/c/ B/d/c/e/ d/B/4c/4d/g/ BA/G/|
+V:2
+C/D,/E,/^F,/ G,/E,/F,/D,/ G,B,,C,D,|E,^F,G,E, B,,C, D,D,,|
+%
+V:1
+Gz z2 z/G/A/B/ c/A/B/G/|^Fz3 z/A/B/c/ d/B/c/A/|
+V:2
+z/G,,/A,,/B,,/ C,/A,,/B,,/G,,/ D,G,^F,G,|A,/D,/E,/^F,/ G,/E,/F,/D,/ A,DCD|
+%
+V:1
+Bz z2 z/d/c/B/ A/c/B/d/|cz z2 z/e/d/c/ B/d/^c/d/|
+V:2
+G,/G/=F/E/ D/F/E/G/ FEFD|E/A/G/F/ E/G/F/A/ GFGE|
+%
+V:1
+d^cde fA=Bc|d^F^GA Bcd2|
+V:2
+F/_B/A/G/ F/A/G/B/ A/G/F/E/ D/F/E/G/|F/E/D/C/ B,/D/C/E/ D/C/B,/A,/ ^G,/B,/A,/C/|
+%
+V:1
+d/E/^F/^G/ A/F/G/E/ e/d/c/e/ d/c/B/d/|c/a/^g/b/ a/e/f/d/ ^G/f/e/d/ cB/A/|
+V:2
+B,E, D3/E/ C/B,/A,/=G,/ ^F,/A,/^G,/B,/|A,/C/B,/D/ C/E/D/F/ EA,EE,|
+%
+V:1
+A/a/g/f/ e/g/f/a/ g4|g/e/f/g/ a/f/g/e/ f4|
+V:2
+A,A,, z2 z/E/D/C/ B,/D/^C/E/|D4 D/A,/B,/=C/ D/B,/C/A,/|
+%
+V:1
+f/g/f/e/ d/f/e/g/ f4|f/d/e/f/ g/e/f/d/ e4|
+V:2
+B,4 B,/D/C/B,/ A,/C/B,/D/|C4 C/G,/A,/_B,/ C/A,/^A,/G,/|
+%
+V:1
+e/c/d/e/ f/d/e/c/ d/e/f/g/ a/f/g/e/|f/g/a/b/ c'/a/b/g/ c'g ed/c/|
+V:2
+A,_B,A,G, F,DCB,|A,FED E/D,/E,/F,/ G,/E,/F,/D,/|
+%
+V:1
+c/_B/A/G/ F/A/G/_B/ A/B/c/E/ D/c/F/B/|[c8G8E8]|]
+V:2
+E,C,D,E, F,/D,/E,/F,/ G,G,,|[C,8C,,8]|]
+
+X:8628
+T:Prelude BWV 846 no. 1
+C:Johann Sebastian Bach
+M:4/4
+L:1/16
+Q:280
+V:1
+V:2
+V:3
+K:C
+V:1
+z2 Gc eGce z2 Gc eGce| z2 Ad fAdf z2 Ad fAdf| z2 Gd fGdf z2 Gd fGdf|
+V:2
+z E7 z E7|z D7 z D7|z D7 z D7|
+V:3
+C8 C8|C8 C8|B,8 B,8|
+%
+V:1
+ z2 Gc eGce z2 Gc eGce| z2 Ae aAea z2 Ae aAea| z2 ^FA dFAd z2 FA dFAd|
+V:2
+z E7 z E7|z E7 z E7|z D7 z D7|
+V:3
+C8 C8|C8 C8|C8 C8|
+%
+V:1
+ z2 Gd gGdg z2 Gd gGdg| z2 EG cEGc z2 EG cEGc| z2 EG cEGc z2 EG cEGc|
+V:2
+z D7 z D7|z C7 z C7|z C7 z C7|
+V:3
+B,8 B,8|B,8 B,8|A,8 A,8|
+%
+V:1
+ z2 D^F cDFc z2 DF cDFc| z2 DG BDGB z2 DG BDGB| z2 EG ^cEGc z2 EG cEGc|
+V:2
+z A,7 z A,7|z B,7 z B,7|z _B,7 z B,7|
+V:3
+D,8 D,8|G,8 G,8|G,8 G,8|
+%
+V:1
+ z2 DA dDAd z2 DA dDAd| z2 DF BDFB z2 DF BDFB| z2 CG cCGc z2 CG cCGc|
+V:2
+z A,7 z A,7|z _A,7 z A,7|z G,7 z G,7|
+V:3
+F,8 F,8|F,8 F,8|E,8 E,8|
+%
+V:1
+ z2 A,C FA,CF z2 A,C FA,CF| z2 A,C FA,CF z2 A,C FA,CF| z2 G,B, FG,B,F z2 G,B, FG,B,F|
+V:2
+z F,7 z F,7|z F,7 z F,7|z D,7 z D,7|
+V:3
+E,8 E,8|D,8 D,8|G,,8 G,,8|
+%
+V:1
+ z2 G,C EG,CE z2 G,C EG,CE| z2 _B,C EB,CE z2 B,C EB,CE| z2 A,C EA,CE z2 A,C EA,CE|
+V:2
+z E,7 z E,7|z G,7 z G,7|z F,7 z F,7|
+V:3
+C,8 C,8|C,8 C,8|F,,8 F,,8|
+%
+V:1
+ z2 A,C _EA,CE z2 A,C EA,CE| z2 B,C DB,CD z2 B,C DB,CD| z2 G,B, DG,B,D z2 G,B, DG,B,D|
+V:2
+z C,7 z C,7|z F,7 z F,7|z F,7 z F,7|
+V:3
+^F,,8 F,,8|_A,,8 A,,8|G,,8 G,,8|
+%
+V:1
+ z2 G,C EG,CE z2 G,C EG,CE| z2 G,C FG,CF z2 G,C FG,CF| z2 G,B, FG,B,F z2 G,B, FG,B,F|
+V:2
+z E,7 z E,7|z D,7 z D,7|z D,7 z D,7|
+V:3
+G,,8 G,,8|G,,8 G,,8|G,,8 G,,8|
+%
+V:1
+ z2 A,C ^FA,CF z2 A,C FA,CF| z2 G,C GG,CG z2 G,C GG,CG| z2 G,C FG,CF z2 G,C FG,CF|
+V:2
+z _E,7 z E,7|z E,7 z E,7|z D,7 z D,7|
+V:3
+G,,8 G,,8|G,,8 G,,8|G,,8 G,,8|
+%
+V:1
+ z2 G,B, FG,B,F z2 G,B, FG,B,F| z2 G,_B, EG,B,E z2 G,B, EG,B,E|z2 F,A, CFCA, CA,F,A, F,D,F,D,|
+V:2
+z D,7 z D,7|z C,7 z C,7|z C,15|
+V:3
+G,,8 G,,8|C,,8 C,,8|C,,16|
+%
+V:1
+z2 GB dfdB dBGB DFED|[E16G16c16]|]
+V:2
+z B,,15|C,16|]
+V:3
+C,,16|C,,16|]
+
+X: 1
+T:Bagatelle No.25 in A, WoO.59
+C:Ludwig van Beethoven
+V:1
+V:2
+M:3/8
+L:1/16
+Q:400
+K:Am
+V:1
+e^d|e^deB=dc|A2 z CEA|B2 z E^GB|c2 z Ee^d|
+V:2
+z2|z6|A,,E,A, z z2|E,,E,^G, z z2|A,,E,A, z z2|
+%
+V:1
+e^deB=dc|A2 z CEA|B2 z EcB|[1A2 z2:|[2A2z Bcd|
+V:2
+z6|A,,E,A, z z2|E,,E,^G, z z2|[1A,,E,A, z :|[2A,,E,A, z z2|
+%
+V:1
+|:e3 Gfe|d3 Fed|c3 Edc|B2 z Ee z|z ee' z z ^d|
+V:2
+|:C,E,C z z2|G,,G,B, z z2|A,,E,A, z z2|E,,E,E z z E|e z z ^de z|
+%
+V:1
+e z z ^ded|e^deB=dc|A2 z CEA|B2 zE^GB|c2 z Ee^d|
+V:2
+z ^de z z2|z6|A,,E,A, z z2|E,,E,^G, z z2|A,,E,A, z z2|
+%
+V:1
+e^deB=dc|A2 z CEA|B2 z EcB|[1A2 z Bcd:|
+V:2
+z6|A,,E,A, z z2|E,,E,^G, z z2|[1A,,E,A, z z2:|
+%
+V:1
+[2A2 z [Ec][Fc][EGc]|c4 fe|e2d2 _ba|agfedc|
+V:2
+[2A,,E,A, [_B,C][A,C][G,B,C]|F,A,CA,CA,|F,_B,DB,DB,|F,E[F,G,_B,]E[F,G,B,]E|
+%
+V:1
+_B2A2 A/G/A/B/|c4 d^d|e3 efA|c4 dB|
+V:2
+F,A,CA,CA,|F,A,CA,CA,|E,A,CA,[D,D]F,|G,EG,EG,F|
+%
+V:1
+c/g/G/g/ A/g/B/g/ c/g/d/g/|e/g/c'/b/ a/g/f/e/ d/g/f/d/|c/g/G/g/ A/g/B/g/ c/g/d/g/|
+V:2
+[C2E2] z [FG][EG][DFG]|[C2E2G2] [F,2A,2][F,2A,2]|C2 z [FG][EG][DFG]|
+%
+V:1
+e/g/c'/b/ a/g/f/e/ d/g/f/d/|e/f/e/^d/ e/B/e/d/ e/B/e/d/|e3 Be^d|e3 Be z|
+V:2
+[C2E2G2] [F,2A,2][G,2B,2]|[^G,2B,2] z2 z2|z6|z4 z ^d|
+%
+V:1
+z ^de z z d|e^deB=dc|A2 z CEA|B2 z E^GB|c2 z Ee^d|
+V:2
+e z z ^de z|z6|A,,E,A, z z2|E,,E,^G, z z2|A,,E,A, z z2|
+%
+V:1
+e^deB=dc|A2 z CEA|B2 z EcB|A2 z Bcd|e3 Gfe|
+V:2
+z6|A,,E,A, z z2|E,,E,^G, z z2|A,,E,A, z z2|C,E,C z z2|
+%
+V:1
+d3 Fed|c3 Edc|B2 z Ee z|z ee' zz ^d|e z z ^ded|
+V:2
+G,,G,B, z z2|A,,E,A, z z2|E,,E,E z z E|e z z ^de z|z ^de z z2|
+%
+V:1
+e^deB=dc|A2 z CEA|B2 z E^GB|c2 z Ee^d|e^deB=dc|A2 z CEA|
+V:2
+z6|A,,E,A, z z2|E,,E,^G, z z2|A,,E,A, z z2|z6|A,,E,A, z z2|
+%
+V:1
+B2 z EcB|A2 z2 z2|[E6G6_B6^c6]|[F4A4d4][^ce][df]|[^G4d4f4][G2d2f2]|[A6c6e6]|
+V:2
+E,,E,^G, z z2|A,,A,,A,,A,,A,,A,,|A,,A,,A,,A,,A,,A,,|A,,A,,A,,A,,A,,A,,|A,,A,,A,,A,,A,,A,,|A,,A,,A,,A,,A,,A,,|
+%
+V:1
+[F4d4][Ec][DB]|[C4^F4A4][C2A2][C2A2][E2c2][D2B2]|[C6A6]|[E6G6_B6^c6]|[F4A4d4][^ce][df]|
+V:2
+[D,,A,,][D,,A,,][D,,A,,][D,,A,,][D,,A,,][D,,A,,]|[^D,,A,,][D,,A,,][D,,A,,][D,,A,,][D,,A,,][D,,A,,]|[E,,A,,][E,,A,,][E,,A,,][E,,A,,][E,,^G,,][E,,G,,]|[A,,,A,,]A,,A,,A,,A,,A,,|A,,A,,A,,A,,A,,A,,|A,,A,,A,,A,,A,,A,,|
+%
+V:1
+[d4f4][d2f2]|[d6f6]|[G4_e4][Fd][_Ec]|[D4F4_B4][D2F2A2]|[D4F4^G4][D2F2G2]|[C2E2A2] z2 z2|
+V:2
+A,,A,,A,,A,,A,,A,,|_B,,B,,B,,B,,B,,B,,|_B,,B,,B,,B,,B,,B,,|_B,,B,,B,,B,,B,,B,,|=B,,B,,B,,B,,B,,B,,|C,2 z2 z2|
+%
+V:1
+[E2B2] z2 z2|(3A,CE (3Ace (3dcB|(3Ace (3ac'e' (3d'c'b|(3Ace (3ac'e' (3d'c'b|
+V:2
+[E,2^G,2] z2 z2|A,,,2 z2 [A,2C2E2]|[A,2C2E2] z2 [A,2C2E2]|[A,2C2E2] z2 [A,2C2E2]|
+%
+V:1
+(3_ba_a (3g_gf (3e_ed|(3_d'c'b (3_ba_b (3g_gf|e^deB=dc|A2 z CEA|
+V:2
+[A,2C2E2] z2 z2|z6|z6|A,,E,A, z z2|
+%
+V:1
+B2 z E^GB|c2 z Ee^d|e^deB=dc|A2 z CEA|B2 z EcB|
+V:2
+E,,E,^G, z z2|A,,E,A, z z2|z6|A,,E,A, z z2|E,,E,^G, z z2|
+%
+V:1
+A2 z Bcd|e3 Gfe|d3 Fed|c3 Edc|B2 z Ee z|
+V:2
+A,,E,A, z z2|C,E,C z z2|G,,G,B, z z2|A,,E,A, z z2|E,,E,E z z E|
+%
+V:1
+z ee' z z ^d|e z z ^ded|e^deB=dc|A2 z CEA|B2 z E^GB|
+V:2
+e z z ^de z|z ^de z z2|z6|A,,E,A, z z2|E,,E,^G, z z2|
+%
+V:1
+c2 z Ee^d|e^deB=dc|A2 z CEA|B2 z DcB|[C4A4]|]
+V:2
+A,,E,A, z z2|z6|A,,E,A, z z2|E,,E,^G, z z2|[A,,,4A,,4]|]

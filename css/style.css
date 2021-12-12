@@ -1,0 +1,268 @@
+body {
+    padding-bottom: 10px;
+    font-size: 16px !important;
+    width: 100vw;
+    height: 100%;
+
+}
+header {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10%;
+    background-color: transparent;
+    overflow: hidden;
+}
+header #logo {
+    width: 70px;
+}
+main {
+    padding-top: 50px !important;
+    background: #B29EF8;
+}
+#big-container {
+    width: 95% !important;
+}
+#modern-abc-editor {
+    font-size: 3em !important;
+}
+#editor-and-scale {
+    width: 40% !important;
+    min-height: 90vh !important;
+}
+#paper {
+    overflow: auto;
+}
+
+#scale-img {
+    width: 100%;
+}
+textarea {
+    resize: none !important;
+    overflow: hidden;
+    min-height: 50vh !important;
+    margin-bottom: 5% !important;
+    background: #D5EB87;
+}
+#dropdown-scale, #collaborate-container, #documentation-container, #test-container {
+    padding: 0;
+    height: 50px;
+}
+#collab-popup-container, #user_list_all_container {
+    display: none;
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(127,127,127,0.7);
+    z-index: 2;
+}
+#user_list_all {
+    height: fit-content !important;
+    padding: 20px 0;
+    min-height: 30vh;
+}
+#collab-popup, #user_list_all {
+    width: 40vw;
+    height: 30vh;
+    background:white;
+    border: none;
+    border-radius: 10px;
+    position: relative;
+}
+#collab-link-and-btn {
+    width: 70%;
+    height: 20%;
+}
+#collab-link {
+    width: 85%;
+    border: none;
+    background: #E6F4EA;
+    color: #1F8E3D;
+    padding-left: 5px;
+    border-radius: 5px;
+    overflow: scroll;
+}
+#collab-link-btn {
+    width: 10%;
+    padding:0;
+    background: none;
+    margin-left: 5px;
+    border: none;
+}
+#collab-done-btn, #user_list_hide_btn {
+    border: none;
+    border-radius: 5px;
+    width: 20%;
+    height: 15%;
+    position: absolute;
+    right: 3%;
+    bottom: 5%;
+    background: #1B73E8;
+    color: white;
+}
+
+
+
+#dropdown-scale button, #collaborate-btn, #documentation-container button, #user_list_display_btn {
+    color: black;
+    -webkit-appearance: none;
+    
+    background: #7FCC19;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1em;
+}
+#paper-and-play {
+    margin-bottom: 20px;
+}
+#abc {
+    min-height: 100%;
+    border: none;
+    padding-left: 10px;
+    -webkit-appearance: none;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1em;
+}
+#audio {
+    margin-top: auto;
+    height: 100%;
+}
+#play-and-download {
+    height: 100px;
+    width: 100% !important;
+    margin-top: auto;
+    margin: 0;
+}
+#midi {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#midi {
+    -webkit-appearance: none;
+    background: white;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1em;
+}
+#midi:active {
+    content: "Download";
+    color: black;
+}
+.abcjs-btn {
+    
+    -webkit-appearance: none;
+    background: white;
+    border: 0.01px solid #ececec;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1em;
+}
+.linear-wipe {
+    text-align: center;
+    background: linear-gradient(to right, #5B61DC 0%, #fd0033 20%,#00ff1a 50%,#002afa 100%);
+    background-size: 200% auto;
+    color: #000;
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    animation: shine 3s linear infinite;
+    
+}
+@keyframes shine {
+    to {
+      background-position: 200% center;
+    }
+  }
+@media (max-width: 1150px) and (min-width: 550px) {
+    #big-container {
+        flex-direction: column !important;
+        align-items:center;
+    }
+    textarea, #editor-and-scale {
+        width: 100% !important;
+    }
+    #paper-and-play {
+        align-items: center !important;
+    }
+    #scale-img {
+        width: 50% !important;
+    }
+    #dropdown-scale {
+        height: 80px;
+    }
+    #dropdown-scale button {
+        height: 40% !important;
+    }
+}
+@media (max-width: 500px) {
+    #big-container {
+        flex-direction: column !important;
+        align-items:center;
+    }
+    textarea, #editor-and-scale {
+        width: 100% !important;
+    }
+    #paper-and-play {
+        align-items: center !important;
+        position: relative;
+        bottom: 20vh !important;
+    }
+    #scale-img {
+        width: 50% !important;
+    }
+    #dropdown-scale {
+        height: 80px;
+    }
+    #dropdown-scale button {
+        height: 40% !important;
+    }
+    .abcjs-midi-progress-background {
+        display: none !important; 
+    }
+    .abcjs-midi-progress-indicator {
+        display: none !important;
+    }
+    .abcjs-midi-clock {
+        display: none !important;
+    }
+    .abcjs-inline-audio .abcjs-tempo-wrapper {
+        position: absolute;
+	    right: 0;
+    }
+    #collab-popup {
+        width: 100vw;
+        height: 35vh;
+    }
+}
+
+ul{
+    columns: 2;
+}
+#user_list {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+#user_list div {
+    float: right;
+    position: relative;
+    top: 0;
+
+    margin: 0.75em;
+    font-family: sans-serif;
+    text-align: center;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    border: 3px solid white;
+    color: white;
+  }
